@@ -1,4 +1,4 @@
-<img src="https://intelligy.com/files/events/10/169/it-tijuana.gif" width="250px" />
+<img src="https://intelligy.com/files/events/10/169/it-tijuana.gif" width="250px" class="center" />
 
 # Instituto Tecnológico de Tijuana
 
