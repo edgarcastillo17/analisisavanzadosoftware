@@ -4,11 +4,11 @@
 
 # Instituto Tecnológico de Tijuana
 
-**Carrera:** Ingeniería Informática
-
 **Nombre:** Castillo Medina Edgar Antonio
 
 **Número de Control:** 17211667
+
+**Carrera:** Ingeniería Informática
 
 **Semestre:** 8vo.
 
