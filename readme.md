@@ -8,6 +8,8 @@
 
 **Número de Control:** 17211667
 
+**Equipo:** Dinamita
+
 **Carrera:** Ingeniería Informática
 
 **Semestre:** 8vo.
