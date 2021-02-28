@@ -25,9 +25,11 @@ ___
 * ## :paperclip: [Atach](https://github.com/edgarcastillo17/avscastillo/tree/main/atach "Atach")
 
 * ## :clipboard: [Blog](https://github.com/edgarcastillo17/avscastillo/tree/main/blog "Blog")
-    * ### :hourglass_flowing_sand: [C0.1_IntegrarEquiposDeTrabajo](https://github.com/edgarcastillo17/avscastillo/blob/main/blog/C0.1_IntegrarEquiposDeTrabajo_CastilloMedinaEdgarAntonio.md "C0.1_IntegrarEquiposDeTrabajo")
+    * ### :hourglass_flowing_sand: [C0.1 IntegrarEquiposDeTrabajo](https://github.com/edgarcastillo17/avscastillo/blob/main/blog/C0.1_IntegrarEquiposDeTrabajo_CastilloMedinaEdgarAntonio.md "C0.1_IntegrarEquiposDeTrabajo")
+    * ### :hourglass_flowing_sand: [C0.2 Tipo de Sistema a Desarrollar](https://github.com/edgarcastillo17/avscastillo/blob/main/blog/C0.2_Tipo_de_Sistema_Desarrollar.md "C0.2 Tipo de Sistema a Desarrollar")
 
 * ## :bar_chart: [Diagrams](https://github.com/edgarcastillo17/avscastillo/tree/main/diagrams "Diagrams")
+    * ### :chart_with_upwards_trend: [C0.2_Tipo de Sistema a Desarrollar](https://github.com/edgarcastillo17/avscastillo/blob/main/diagrams/C0.2.FlujoInteraccion.png "Flujo de Interacción")
 
 * ## :open_file_folder: [Docs](https://github.com/edgarcastillo17/avscastillo/tree/main/docs "Docs")
 
