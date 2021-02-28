@@ -4,19 +4,19 @@
 
 # Instituto Tecnológico de Tijuana
 
-**Nombre:** Castillo Medina Edgar Antonio
+- **Nombre:** Castillo Medina Edgar Antonio
 
-**Número de Control:** 17211667
+- **Número de Control:** 17211667
 
-**Equipo:** Dinamita
+- **Equipo:** Dinamita
 
-**Carrera:** Ingeniería Informática
+- **Carrera:** Ingeniería Informática
 
-**Semestre:** 8vo.
+- **Semestre:** 8vo.
 
-**Docente:** Enriquez Alvarez Jaime Leonardo
+- **Docente:** Enriquez Alvarez Jaime Leonardo
 
-**Periodo:** Febrero — Julio 2021
+- **Periodo:** Febrero — Julio 2021
 
 ___
 
