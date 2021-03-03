@@ -29,7 +29,7 @@ ___
     * ### :hourglass_flowing_sand: [C0.2 Tipo de Sistema a Desarrollar](https://github.com/edgarcastillo17/avscastillo/blob/main/blog/C0.2_Tipo_de_Sistema_Desarrollar.md "C0.2 Tipo de Sistema a Desarrollar")
 
 * ## :bar_chart: [Diagrams](https://github.com/edgarcastillo17/avscastillo/tree/main/diagrams "Diagrams")
-    * ### :chart_with_upwards_trend: [C0.2_Tipo de Sistema a Desarrollar](https://github.com/edgarcastillo17/avscastillo/blob/main/diagrams/C0.2.FlujoInteraccion.png "Flujo de Interacción")
+    * ### :chart_with_upwards_trend: [C0.2 Tipo de Sistema a Desarrollar](https://github.com/edgarcastillo17/avscastillo/blob/main/diagrams/C0.2.FlujoInteraccion.png "Flujo de Interacción")
 
 * ## :open_file_folder: [Docs](https://github.com/edgarcastillo17/avscastillo/tree/main/docs "Docs")
 
