@@ -27,9 +27,11 @@ ___
 * ## :clipboard: [Blog](https://github.com/edgarcastillo17/avscastillo/tree/main/blog "Blog")
     * ### :hourglass_flowing_sand: [C0.1 IntegrarEquiposDeTrabajo](https://github.com/edgarcastillo17/avscastillo/blob/main/blog/C0.1_IntegrarEquiposDeTrabajo.md "C0.1_IntegrarEquiposDeTrabajo")
     * ### :hourglass_flowing_sand: [C0.2 Tipo de Sistema a Desarrollar](https://github.com/edgarcastillo17/avscastillo/blob/main/blog/C0.2_Tipo_de_Sistema_Desarrollar.md "C0.2 Tipo de Sistema a Desarrollar")
+    * ### :hourglass_flowing_sand: [C0.3 Diagrama de Flujo de Proceso](https://github.com/edgarcastillo17/avscastillo/blob/main/blog/C0.3_DiagramadeFlujo_Proceso.md "C0.3 Diagrama de Flujo de Proceso")
 
 * ## :bar_chart: [Diagrams](https://github.com/edgarcastillo17/avscastillo/tree/main/diagrams "Diagrams")
     * ### :chart_with_upwards_trend: [C0.2 Tipo de Sistema a Desarrollar](https://github.com/edgarcastillo17/avscastillo/blob/main/diagrams/C0.2.FlujoInteraccion.png "Flujo de Interacción")
+    * ### :chart_with_downwards_trend: [C0.3 Diagrama de Flujo de Proceso](https://github.com/edgarcastillo17/avscastillo/blob/main/diagrams/C0.3_Diagrama.png "Flujo de Proceso")
 
 * ## :open_file_folder: [Docs](https://github.com/edgarcastillo17/avscastillo/tree/main/docs "Docs")
 
