@@ -28,7 +28,7 @@ ___
     * ### :hourglass_flowing_sand: [C0.1 IntegrarEquiposDeTrabajo](https://github.com/edgarcastillo17/avscastillo/blob/main/blog/C0.1_IntegrarEquiposDeTrabajo.md "C0.1_IntegrarEquiposDeTrabajo")
     * ### :hourglass_flowing_sand: [C0.2 Tipo de Sistema a Desarrollar](https://github.com/edgarcastillo17/avscastillo/blob/main/blog/C0.2_Tipo_de_Sistema_Desarrollar.md "C0.2 Tipo de Sistema a Desarrollar")
     * ### :hourglass_flowing_sand: [C0.3 Diagrama de Flujo de Proceso](https://github.com/edgarcastillo17/avscastillo/blob/main/blog/C0.3_DiagramadeFlujo_Proceso.md "C0.3 Diagrama de Flujo de Proceso")
-    * ### :trophy: [A0.1 Recopilación Entrevista](https://github.com/edgarcastillo17/avscastillo/blob/main/blog/A0.1_Recopilacion_Entrevista.md "A0.1 Recopilación Entrevista")
+    * ### :trophy: [A0.1 Data collection through the interview](https://github.com/edgarcastillo17/avscastillo/blob/main/blog/A0.1_Compilation_Interview.md "A0.1 Recopilación Entrevista")
 
 * ## :bar_chart: [Diagrams](https://github.com/edgarcastillo17/avscastillo/tree/main/diagrams "Diagrams")
     * ### :chart_with_upwards_trend: [C0.2 Tipo de Sistema a Desarrollar](https://github.com/edgarcastillo17/avscastillo/blob/main/diagrams/C0.2.FlujoInteraccion.png "Flujo de Interacción")
