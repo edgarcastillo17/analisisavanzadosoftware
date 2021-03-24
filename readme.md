@@ -29,6 +29,7 @@ ___
     * ### :hourglass_flowing_sand: [C0.2 Tipo de Sistema a Desarrollar](https://github.com/edgarcastillo17/avscastillo/blob/main/blog/C0.2_Tipo_de_Sistema_Desarrollar.md "C0.2 Tipo de Sistema a Desarrollar")
     * ### :hourglass_flowing_sand: [C0.3 Diagrama de Flujo de Proceso](https://github.com/edgarcastillo17/avscastillo/blob/main/blog/C0.3_DiagramadeFlujo_Proceso.md "C0.3 Diagrama de Flujo de Proceso")
     * ### :trophy: [A0.1 Data collection through the interview](https://github.com/edgarcastillo17/avscastillo/blob/main/blog/A0.1_Compilation_Interview.md "A0.1 Recopilación Entrevista")
+    * ### :hourglass_flowing_sand: [C1.1 Definición de Objetivo General, Objetivos Específicos y Modelado del negocio](https://github.com/edgarcastillo17/avscastillo/blob/main/blog/C0.3_DiagramadeFlujo_Proceso.md "C1.1 Definición de Objetivo General, Objetivos Específicos y Modelado del negocio")
 
 * ## :bar_chart: [Diagrams](https://github.com/edgarcastillo17/avscastillo/tree/main/diagrams "Diagrams")
     * ### :chart_with_upwards_trend: [C0.2 Tipo de Sistema a Desarrollar](https://github.com/edgarcastillo17/avscastillo/blob/main/diagrams/C0.2.FlujoInteraccion.png "Flujo de Interacción")
@@ -37,6 +38,7 @@ ___
     * ### :chart_with_downwards_trend: [A0.1 Empatizar: ¿Qué? ¿Cómo? ¿Por qué? I](https://raw.githubusercontent.com/edgarcastillo17/avscastillo/main/diagrams/A0.1_WhatHowWhy_1.png "Empatizar: ¿Qué? ¿Cómo? ¿Por qué?")
     * ### :chart_with_upwards_trend: [A0.1 Empatizar: ¿Qué? ¿Cómo? ¿Por qué? II](https://raw.githubusercontent.com/edgarcastillo17/avscastillo/main/diagrams/A0.1_WhatHowWhy_2.png "Empatizar: ¿Qué? ¿Cómo? ¿Por qué?")
     * ### :chart_with_downwards_trend: [A0.1 Empatizar: ¿Qué? ¿Cómo? ¿Por qué? III](https://raw.githubusercontent.com/edgarcastillo17/avscastillo/main/diagrams/A0.1_WhatHowWhy_3.png "Empatizar: ¿Qué? ¿Cómo? ¿Por qué?")
+    * ### :file_folder: [C1.1 Modelado del Negocio](https://github.com/edgarcastillo17/avscastillo/tree/main/diagrams/C1.1_ObjetivosGenerales_especificos "Modelado del Negocio")
 
 * ## :open_file_folder: [Docs](https://github.com/edgarcastillo17/avscastillo/tree/main/docs "Docs")
 
