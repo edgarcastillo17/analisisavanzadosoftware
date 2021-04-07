@@ -30,6 +30,7 @@ ___
     * ### :hourglass_flowing_sand: [C0.3 Diagrama de Flujo de Proceso](https://github.com/edgarcastillo17/avscastillo/blob/main/blog/C0.3_DiagramadeFlujo_Proceso.md "C0.3 Diagrama de Flujo de Proceso")
     * ### :bomb: [A0.1 Data collection through the interview](https://github.com/edgarcastillo17/avscastillo/blob/main/blog/A0.1_Compilation_Interview.md "A0.1 Recopilación Entrevista")
     * ### :hourglass_flowing_sand: [C1.1 Definición de Objetivo General, Objetivos Específicos y Modelado del negocio](https://github.com/edgarcastillo17/avscastillo/blob/main/blog/C1.1_ObjetivosGenerales_Especificos.md "C1.1 Definición de Objetivo General, Objetivos Específicos y Modelado del negocio")
+    * ### :hourglass_flowing_sand: [C1.2 Acta Constitutiva del Proyecto](https://github.com/edgarcastillo17/avscastillo/blob/main/blog/C1.2_ActaConstitutiva_delProyecto.md "C1.2 Acta Constitutiva del Proyecto")
 
 * ## :bar_chart: [Diagrams](https://github.com/edgarcastillo17/avscastillo/tree/main/diagrams "Diagrams")
     * ### :chart_with_upwards_trend: [C0.2 Tipo de Sistema a Desarrollar](https://github.com/edgarcastillo17/avscastillo/blob/main/diagrams/C0.2.FlujoInteraccion.png "Flujo de Interacción")
