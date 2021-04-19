@@ -33,6 +33,7 @@ ___
     * ### :hourglass_flowing_sand: [C1.2 Acta Constitutiva del Proyecto](https://github.com/edgarcastillo17/avscastillo/blob/main/blog/C1.2_ActaConstitutiva_delProyecto.md "C1.2 Acta Constitutiva del Proyecto")
     * ### :hourglass_flowing_sand: [C1.3 Requisitos del Sistema](https://github.com/edgarcastillo17/avscastillo/blob/main/blog/C1.3_Requisitos_del_Sistema.md "C1.3 Requisitos del Sistema")
     * ### :bomb: [A1.0 Project Charter](https://github.com/edgarcastillo17/avscastillo/blob/main/blog/A1.0_ProjectCharter.md "A1.0 Project Charter")
+    * ### :hourglass_flowing_sand: [C1.4 Modelado de Requisitos a través de diagramas de comportamiento (casos de uso, secuencia, clases)](https://github.com/edgarcastillo17/avscastillo/blob/main/blog/C1.4_UML_Casos_de_uso_secuencia_clases.md "C1.4 Modelado de Requisitos a través de diagramas de comportamiento (casos de uso, secuencia, clases)")
 
 * ## :bar_chart: [Diagrams](https://github.com/edgarcastillo17/avscastillo/tree/main/diagrams "Diagrams")
     * ### :chart_with_upwards_trend: [C0.2 Tipo de Sistema a Desarrollar](https://github.com/edgarcastillo17/avscastillo/blob/main/diagrams/C0.2.FlujoInteraccion.png "Flujo de Interacción")
@@ -42,6 +43,7 @@ ___
     * ### :chart_with_upwards_trend: [A0.1 Empatizar: ¿Qué? ¿Cómo? ¿Por qué? II](https://raw.githubusercontent.com/edgarcastillo17/avscastillo/main/diagrams/A0.1_WhatHowWhy_2.png "Empatizar: ¿Qué? ¿Cómo? ¿Por qué?")
     * ### :chart_with_downwards_trend: [A0.1 Empatizar: ¿Qué? ¿Cómo? ¿Por qué? III](https://raw.githubusercontent.com/edgarcastillo17/avscastillo/main/diagrams/A0.1_WhatHowWhy_3.png "Empatizar: ¿Qué? ¿Cómo? ¿Por qué?")
     * ### :chart_with_upwards_trend: [C1.1 Modelado del Negocio](https://github.com/edgarcastillo17/avscastillo/tree/main/diagrams/C1.1_ObjetivosGenerales_especificos "Modelado del Negocio")
+    * ### :chart_with_downwards_trend: [C1.4 Diagramas de Comportamiento (Secuencia, Casos de Uso, Clases)](https://github.com/edgarcastillo17/avscastillo/tree/main/diagrams/C1.4_UML_Casos_de_uso_secuencia_clases "C1.4 Diagramas de Comportamiento (Secuencia, Casos de Uso, Clases)")
 
 * ## :open_file_folder: [Docs](https://github.com/edgarcastillo17/avscastillo/tree/main/docs "Docs")
 
