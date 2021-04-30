@@ -35,6 +35,7 @@ ___
     * ### :bomb: [A1.0 Project Charter](https://github.com/edgarcastillo17/avscastillo/blob/main/blog/A1.0_ProjectCharter.md "A1.0 Project Charter")
     * ### :hourglass_flowing_sand: [C1.4 Modelado de Requisitos a través de Diagramas de Comportamiento](https://github.com/edgarcastillo17/avscastillo/blob/main/blog/C1.4_UML_Casos_de_uso_secuencia_clases.md "C1.4 Modelado de Requisitos a través de diagramas de comportamiento (casos de uso, secuencia, clases)")
     * ### :hourglass_flowing_sand: [C1.5 Modelado de Requisitos a través de Diagramas Estructurados](https://github.com/edgarcastillo17/avscastillo/blob/main/blog/C1.5_UML_Estado_componentes_distribucion.md "C1.5 Modelado de Requisitos a través de Diagramas Estructurados (estados, componentes, distribución)")
+    * ### :bomb: [A1.1 Requirements Modeling using UML](https://github.com/edgarcastillo17/avscastillo/blob/main/blog/A1.1_UML_RequirementsModeling.md "A1.1 Requirements Modeling using UML")
 
 * ## :bar_chart: [Diagrams](https://github.com/edgarcastillo17/avscastillo/tree/main/diagrams "Diagrams")
     * ### :chart_with_upwards_trend: [C0.2 Tipo de Sistema a Desarrollar](https://github.com/edgarcastillo17/avscastillo/blob/main/diagrams/C0.2.FlujoInteraccion.png "Flujo de Interacción")
