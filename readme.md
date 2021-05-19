@@ -49,6 +49,7 @@ ___
     * ### :chart_with_downwards_trend: [A0.1 Empatizar: ¿Qué? ¿Cómo? ¿Por qué? III](https://raw.githubusercontent.com/edgarcastillo17/avscastillo/main/diagrams/A0.1_WhatHowWhy_3.png "Empatizar: ¿Qué? ¿Cómo? ¿Por qué?")
     * ### :chart_with_upwards_trend: [C1.1 Modelado del Negocio](https://github.com/edgarcastillo17/avscastillo/tree/main/diagrams/C1.1_ObjetivosGenerales_especificos "Modelado del Negocio")
     * ### :chart_with_downwards_trend: [C1.4 Diagramas de Comportamiento (Secuencia, Casos de Uso, Clases)](https://github.com/edgarcastillo17/avscastillo/tree/main/diagrams/C1.4_UML_Casos_de_uso_secuencia_clases "C1.4 Diagramas de Comportamiento (Secuencia, Casos de Uso, Clases)")
+    * ### :chart_with_upwards_trend: [A2.2 4+1 Architectural View Model Design](https://github.com/edgarcastillo17/avscastillo/tree/main/diagrams/A2.2_4%2B1_Architectual_ViewModel "A2.2 4+1 Architectural View Model Design")
 
 * ## :open_file_folder: [Docs](https://github.com/edgarcastillo17/avscastillo/tree/main/docs "Docs")
 
