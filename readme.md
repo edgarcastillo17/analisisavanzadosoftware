@@ -38,6 +38,7 @@ ___
     * ### :bomb: [A1.1 Requirements Modeling using UML](https://github.com/edgarcastillo17/avscastillo/blob/main/blog/A1.1_RequirementsModeling_UML.md "A1.1 Requirements Modeling using UML")
     * ### :hourglass_flowing_sand: [C2.1 Especificación de Requerimientos Funcionales](https://github.com/edgarcastillo17/avscastillo/blob/main/blog/C2.1_EspecificacionRequerimientos_Funcionales.md "C2.1 Especificación de Requerimientos Funcionales")
     * ### :bomb: [A2.1 Requirements Specification and Documentation](https://github.com/edgarcastillo17/avscastillo/blob/main/blog/A2.1_Requirements_specifications_and_documentation.md "A2.1 Requirements Specification and Documentation")
+    * ### :bomb: [A2.2 4+1 Architectural View Model Design](https://github.com/edgarcastillo17/avscastillo/blob/main/blog/A2.2_4%2B1_Architectural_ViewModel.md "A2.2 4+1 Architectural View Model Design")
 
 * ## :bar_chart: [Diagrams](https://github.com/edgarcastillo17/avscastillo/tree/main/diagrams "Diagrams")
     * ### :chart_with_upwards_trend: [C0.2 Tipo de Sistema a Desarrollar](https://github.com/edgarcastillo17/avscastillo/blob/main/diagrams/C0.2.FlujoInteraccion.png "Flujo de Interacción")
