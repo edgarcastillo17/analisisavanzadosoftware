@@ -61,4 +61,4 @@ ___
 * ## :framed_picture: [IMG](https://github.com/edgarcastillo17/avscastillo/tree/main/img "IMG")
 
 * ##  :notebook_with_decorative_cover: [PDF](https://github.com/edgarcastillo17/avscastillo/tree/main/pdf "PDF")
-    * ### :page_facing_up: [A3.1 Scrum Initiate Phase: Project Vision Declaration (https://github.com/edgarcastillo17/avscastillo/blob/main/pdf/A3.1_Documentation_Scrum_InitiatePhase.pdf "A3.1 Scrum Initiate Phase: Project Vision Declaration")
+    * ### :page_facing_up: [A3.1 Scrum Initiate Phase: Project Vision Declaration] (https://github.com/edgarcastillo17/avscastillo/blob/main/pdf/A3.1_Documentation_Scrum_InitiatePhase.pdf "A3.1 Scrum Initiate Phase: Project Vision Declaration")
