@@ -41,6 +41,7 @@ ___
     * ### :bomb: [A2.2 4+1 Architectural View Model Design](https://github.com/edgarcastillo17/avscastillo/blob/main/blog/A2.2_4%2B1_Architectural_ViewModel.md "A2.2 4+1 Architectural View Model Design")
     * ### :bomb: [A2.3 Software Architectural Patterns](https://github.com/edgarcastillo17/avscastillo/blob/main/blog/A2.3_Software_Architectural_Patterns.md "A2.3 Software Architectural Patterns")
     * ### :bomb: [A3.1 Scrum Initiate Phase: Project Vision Declaration](https://github.com/edgarcastillo17/avscastillo/blob/main/blog/A3.1.Documentation_Scrum_InitiatePhase.md "A3.1 Scrum Initiate Phase: Project Vision Declaration")
+    * ### :bomb: [A3.2 Scrum Initiate Phase: Artifacts](https://github.com/edgarcastillo17/avscastillo/blob/main/blog/A3.2_InitialPhase_Artifacts.md "A3.2 Scrum Initiate Phase: Artifacts")
 
 * ## :bar_chart: [Diagrams](https://github.com/edgarcastillo17/avscastillo/tree/main/diagrams "Diagrams")
     * ### :chart_with_upwards_trend: [C0.2 Tipo de Sistema a Desarrollar](https://github.com/edgarcastillo17/avscastillo/blob/main/diagrams/C0.2.FlujoInteraccion.png "Flujo de Interacción")
@@ -62,3 +63,4 @@ ___
 
 * ##  :notebook_with_decorative_cover: [PDF](https://github.com/edgarcastillo17/avscastillo/tree/main/pdf "PDF")
     * ### :page_facing_up: [A3.1 Scrum Initiate Phase: Project Vision Declaration](https://github.com/edgarcastillo17/avscastillo/blob/main/pdf/A3.1_Documentation_Scrum_InitiatePhase.pdf "A3.1 Scrum Initiate Phase: Project Vision Declaration")
+    * ### :page_facing_up: [A3.2 Scrum Initiate Phase: Artifacts](https://github.com/edgarcastillo17/avscastillo/blob/main/pdf/A3.2_InitialPhase_Artifacts.pdf "A3.2 Scrum Initiate Phase: Artifacts")
