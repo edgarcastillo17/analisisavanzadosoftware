@@ -43,6 +43,7 @@ ___
     * ### :bomb: [A3.1 Scrum Initiate Phase: Project Vision Declaration](https://github.com/edgarcastillo17/avscastillo/blob/main/blog/A3.1.Documentation_Scrum_InitiatePhase.md "A3.1 Scrum Initiate Phase: Project Vision Declaration")
     * ### :bomb: [A3.2 Scrum Initiate Phase: Artifacts](https://github.com/edgarcastillo17/avscastillo/blob/main/blog/A3.2_InitialPhase_Artifacts.md "A3.2 Scrum Initiate Phase: Artifacts")
     * ### :bomb: [A3.3 Software Architecture through C4 Model](https://github.com/edgarcastillo17/avscastillo/blob/main/blog/A3.3_Architecture_usingC4Model.md "A3.3 Software Architecture through C4 Model")
+    * ### :bomb: [A3.4 Scrum Artifacts: Sprint Planning and Estimation](https://github.com/edgarcastillo17/avscastillo/blob/main/blog/A3.4_Scrum_Artifacts_PlanningEstimation.md "A3.4 Scrum Artifacts: Sprint Planning and Estimation")
 
 * ## :bar_chart: [Diagrams](https://github.com/edgarcastillo17/avscastillo/tree/main/diagrams "Diagrams")
     * ### :chart_with_upwards_trend: [C0.2 Tipo de Sistema a Desarrollar](https://github.com/edgarcastillo17/avscastillo/blob/main/diagrams/C0.2.FlujoInteraccion.png "Flujo de Interacción")
@@ -66,3 +67,4 @@ ___
     * ### :page_facing_up: [A3.1 Scrum Initiate Phase: Project Vision Declaration](https://github.com/edgarcastillo17/avscastillo/blob/main/pdf/A3.1_Documentation_Scrum_InitiatePhase.pdf "A3.1 Scrum Initiate Phase: Project Vision Declaration")
     * ### :page_facing_up: [A3.2 Scrum Initiate Phase: Artifacts](https://github.com/edgarcastillo17/avscastillo/blob/main/pdf/A3.2_InitialPhase_Artifacts.pdf "A3.2 Scrum Initiate Phase: Artifacts")
     * ### :page_facing_up: [A3.3 Software Architecture through C4 Model](https://github.com/edgarcastillo17/avscastillo/blob/main/pdf/A3.3_Architecture_usingC4Model.pdf "A3.3 Software Architecture through C4 Model")
+    * ### :page_facing_up: [A3.4 Scrum Artifacts: Sprint Planning and Estimation](https://github.com/edgarcastillo17/avscastillo/blob/main/pdf/A3.4_Scrum_Artifacts_PlanningEstimation.pdf "A3.4 Scrum Artifacts: Sprint Planning and Estimation")
